@@ -1,0 +1,22 @@
+{
+    "name": "kavenegar/yii2",
+    "description": "yii2 kavenegar integration",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","kavenegar","sms","api"],
+    "license": "MIT",
+	"authors": [
+        {
+            "name" : "Kavenegar API Team",
+            "email": "support@kavenegar.com"
+        }
+    ],
+    "require": {
+        "kavenegar/php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kavenegar\\Yii2\\": "src/"
+        }
+    },
+    "minimum-stability" : "stable"
+}
