@@ -4,6 +4,9 @@ Installation
 ```
 git clone https://github.com/KaveNegar/kavenegar-examples-yii2
 ```
+or download from link
+https://github.com/KaveNegar/kavenegar-examples-yii2/archive/master.zip
+
 
 Configuration
 -----
